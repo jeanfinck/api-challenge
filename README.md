@@ -58,4 +58,5 @@ Criar um serviço capaz de monitorar e alertar usuários de que há chances de c
 
 ## Entrega:
 
-Versionar o código em um repositório público no git e enviar o link por email.
+- Versionar o código em um repositório público no git e enviar o link por email.
+- Você terá 2 dias para completar o desafio
