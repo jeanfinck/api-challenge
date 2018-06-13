@@ -32,6 +32,8 @@ Criar um serviço capaz de monitorar e alertar usuários de que há chances de c
 > necessário integrar com nenhum serviço de mensageria, apenas leve em
 > consideração durante a codificação.
 
+#### Opcional
+
 - Crie um método assíncrono para importar novos usuários a partir de um arquivo CSV (levar em consideração que o arquivo já exista na pasta /tmp por exemplo)
 
 - Crie um método assíncrono para exportar todos os usuários da base de dados em um arquivo CSV (o arquivo pode ser salvo na pasta /tmp)
